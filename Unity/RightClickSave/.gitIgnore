@@ -92,4 +92,4 @@ crashlytics-build.properties
 fmod_editor.log
 
 #Ignore Example Code Folder
-/[Aa]ssets/ExampleCode/*
+#/[Aa]ssets/ExampleCode/*
