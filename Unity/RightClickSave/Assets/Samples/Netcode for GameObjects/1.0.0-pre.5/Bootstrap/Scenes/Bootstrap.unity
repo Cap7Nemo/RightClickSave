@@ -164,7 +164,7 @@ MonoBehaviour:
   m_DisconnectTimeoutMS: 30000
   ConnectionData:
     Address: 127.0.0.1
-    Port: 6969
+    Port: 7000
     ServerListenAddress: 127.0.0.1
 --- !u!114 &1114774667
 MonoBehaviour:

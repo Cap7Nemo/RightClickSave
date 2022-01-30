@@ -10,7 +10,7 @@ namespace Unity.Netcode.Samples
     {
         private void OnGUI()
         {
-            GUILayout.BeginArea(new Rect(10, 10, 300, 300));
+            GUILayout.BeginArea(new Rect(300, 10, 600, 300));
 
             var networkManager = NetworkManager.Singleton;
             if (!networkManager.IsClient && !networkManager.IsServer)
